@@ -7,7 +7,7 @@ Para criação do Data Warehouse foi utilizado o Mysql Workbench. O modelo de re
 A imagem abaixo, exibe as tabelas dimensões e a tabela fato (modelo logíco).
 ##  ![modelo_dimensional_fisico](https://github.com/guilhermefritz/ModeloDW_orcamento_despesa/assets/126536587/00084f44-5545-4db8-889f-5c8e88345599)
 
-### Load
+## Load
 Com o DW criado, utilizamos a linguagem de programação Python (python 3.6) para ler o conjunto de dados em formato .csv, devido a sua poderosa package de processamento de dados: Pandas.
 
 ## Dashboard
